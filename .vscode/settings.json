@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.words": [
+    "bumpp",
+    "degit",
+    "fightwithtiger",
+    "starterjs",
+    "starterts",
+    "tegor",
+    "typecheck"
+  ]
+}
