@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "packageManager": "pnpm@7.10.0",
-  "description": "",
+  "description": "sw-heart-beat is working for detecting page crash when out of memory, and report it.",
   "author": "fightwithtiger <2284925818@qq.com>",
   "license": "MIT",
   "funding": "https://github.com/fightwithtiger",
@@ -15,7 +15,11 @@
   "bugs": {
     "url": "https://github.com/fightwithtiger/sw-heart-beat/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "service worker",
+    "heartbeat",
+    "crash"
+  ],
   "sideEffects": false,
   "exports": {
     ".": {
